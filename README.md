@@ -217,7 +217,8 @@ From the above code, I obtained the below screenshots of the boxplots:
 
 From the above data, we can also deduce that:
 - The more active a user was, the more steps they would take, which would result in more calories being burnt.
-- Comparing the four activity levels to the total steps, we notice the data concentrated on users who take about 5000 to 15000 steps a day. These users spent an average between 8 to 13 hours in sedentary, 5 hours in lightly active, and 1 to 2 hour for fairly and very active. Additionally, we see that the sedentary line is leveling off toward the end while fairly + very active line is curing back up. This indicate that the users who burn more calories spend less time in sedentary, more time in fairly + active.
+- Comparing the four activity levels to the total steps, we notice the data concentrated on users who take about 5000 to 15000 steps a day. These users spent an average of 8-13 hours staying sedentary, 5 hours engaging in light physical active, and approximately 1-2 hours for being both fairly and very active. Additionally, the sedentary line is curving upwards towards the end indicates more number of users spending time staying resting, while the number of users engaging in moderate and very active physical activities reduces, as indicated by the line curving downwards.
+- The yellow and blue dots towards the ends of the fairly and very active lines indicate that the users who burn more calories spend less time in sedentary and more time engaging in moderate to high physical activity.
 
 ![Screenshot of distance_vs_active minutes](/Screenshots/Distance_ActiveMinutes.png?raw=true "Distance vs Active Minutes")
 
