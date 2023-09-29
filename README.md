@@ -273,7 +273,7 @@ From the above, we can analyse the following to find interesting observations:
 ![Screenshot of bmi vs steps](/Screenshots/Summary_user_bmi_vs_steps.png?raw=true "BMI vs Total Steps")
 
 ### Share
-To share my ideas with the primary and secondary stakeholders, I created a [dashboard using Tableau](https://public.tableau.com/views/GoogleCapstoneProject-Bellabeat_16956511579190/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) that contains the highlighted visuals for easier understanding, some of which I would also be using in my [presentation](https://www.canva.com/design/DAFv0RjPjws/ay5hL8sXUJdX-ad-kFeRng/view?utm_content=DAFv0RjPjws&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#2).
+To share my ideas with the primary and secondary stakeholders, I created a [dashboard using Tableau](https://public.tableau.com/views/GoogleCapstoneProject-Bellabeat_16956511579190/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) that contains the highlighted visuals for easier understanding, some of which I would also be using in my [presentation](https://docs.google.com/presentation/d/1tP_2XV01z8gT6dxWJwpdnuRFHgYB_R_O_OCH-qKyU6A/edit?usp=sharing).
 
 ### Act
 Onto the final step of the data analysis process! From the above analysis, I would like to restate the objectives of the analysis once again before I dive into my proposed high-level solutions to the founders and the marketing analytics team. As stated above, the objectives of the analysis were:
