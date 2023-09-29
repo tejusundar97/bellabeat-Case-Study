@@ -174,7 +174,13 @@ From the above, we obtain the following statistics:
 
 From the above, we can deduce that the average consumer not only lags behind in physical activity, but also lags behind in sleep. According to the [Sleep Health Foundation](https://www.sleephealthfoundation.org.au/pdfs/HowMuchSleep-0716.pdf), the average adult requires 7 to 9 hours. Additionally, according to another article by the [NHS](https://www.nhs.uk/live-well/exercise/exercise-guidelines/physical-activity-guidelines-for-adults-aged-19-to-64/#:~:text=do%20at%20least%20150%20minutes,a%20week%2C%20or%20every%20day), the average adult should exercise at least 150 minutes of moderate intensity activity or 75 minutes of rigorous activity per week. Wanting to investigate these matters, I wanted to count the number of users who achieved at least 7-9 hours of sleep, and the average weekly active minutes.
 
-![Screenshot of healthy sleep and active minutes](/Screenshots/Healthy_sleep_and_active_minutes.png?raw=true "Healthy Sleep and Active Minutes")
+<b>Healthy Sleep Minutes:</b>
+
+![Screenshot of healthy sleep minutes](/Screenshots/Users_healthy_sleep_records.png?raw=true "Healthy Sleep Minutes")
+
+<b>Healthy Active Minutes:</b>
+
+![Screenshot of healthy active minutes](/Screenshots/Users_healthy_active_minutes.png?raw=true "Healthy Active Minutes")
 
 To study the above statistical data to understand the range and medians of the activity and sleep data, I used the following code to plot a box and whisker graph using the following code:
 
@@ -201,7 +207,13 @@ ggplot(data = in_bed, aes(x = Minutes_in_Bed, y = in_bed)) +
 ```
 From the above code, I obtained the below screenshots of the boxplots:
 
-![Screenshot of boxplots for healthy sleep and active minutes](/Screenshots/Boxplots_Healthy_sleep_and_active_minutes.png?raw=true "Healthy Sleep and Active Minutes")
+<b>Healthy Sleep Minutes:</b>
+
+![Screenshot of boxplots for healthy sleep minutes](/Screenshots/Minutes_in_bed_boxplot.png?raw=true "Healthy Sleep Minutes Boxplot")
+
+<b>Healthy Active Minutes:</b>
+
+![Screenshot of boxplots for active minutes](/Screenshots/Activity_minutes_boxplot.png?raw=true "Healthy Active Minutes Boxplot")
 
 From the above data, we can also deduce that:
 - The more active a user was, the more steps they would take, which would result in more calories being burnt.
