@@ -1,6 +1,6 @@
 <b><i>Author:</i></b> Tejaswini Sundar
 
-<b><i>Date:</i></b> September 26, 2023.
+<b><i>Date:</i></b> September 29, 2023.
 
 # Google Data Analytics Capstone: Bellabeat Case Study Analysis
 Analysing smart device fitness data for a fictional company, Bellabeat, from the [Google Data Analytics Course Capstone](https://www.coursera.org/learn/google-data-analytics-capstone). As an acting Junior Data Analyst within the marketing analyst team for the wellness company, which is a high-tech manufacturer of health-focused products for women, I am tasked with analysing current smart device fitness data to unlock new growth opportunities through these trends for the firm. 
